@@ -1,6 +1,7 @@
-# Welcome to Remix!
+# Remix + ChakraUI
 
-- [Remix Docs](https://remix.run/docs)
+- [Remix](https://remix.run/docs)
+- [Chakra UI](https://chakra-ui.com/docs)
 
 ## Development
 
